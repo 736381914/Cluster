@@ -1,4 +1,4 @@
-![image](https://github.com/736381914/Cluster/assets/57749157/4ce0071a-8d9c-4b80-b2de-02e4d24dccf9)# Cluster
+# Cluster
 
 ## Datasets
 To train on the MVtec Anomaly Detection dataset [download](https://www.mvtec.com/company/research/datasets/mvtec-ad)
